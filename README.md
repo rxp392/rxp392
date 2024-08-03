@@ -1,7 +1,7 @@
 ## Hi! Thanks for stopping by ✨
 - #### 🌱 I’m currently learning NextJS
 - #### 🧘‍♀️ I'm working towards running my first marathon
-- #### 💬 Ask me about Tennis
+- #### 💬 Ask me about all places i've visited
 - #### 😄 Pronouns: she/her/hers
 - ####  📫 How to reach me:
 
