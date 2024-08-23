@@ -1,5 +1,5 @@
 ## Hi! Thanks for stopping by ✨
-<img width="1515" alt="Screenshot 2024-08-22 at 10 48 11 PM" src="https://github.com/user-attachments/assets/e2089acc-2f34-4b99-b103-6d68f920727c">
+<img width="800" alt="Screenshot 2024-08-22 at 10 48 11 PM" src="https://github.com/user-attachments/assets/e2089acc-2f34-4b99-b103-6d68f920727c">
 
 - #### 🌱 I’m currently learning NextJS
 - #### 🧘‍♀️ I'm working towards running my first marathon
