@@ -1,4 +1,6 @@
 ## Hi! Thanks for stopping by ✨
+Learn more 👉 [My Portfolio](https://rxp392.github.io)
+
 <img width="900" alt="Screenshot 2024-08-22 at 10 48 11 PM" src="https://github.com/user-attachments/assets/e2089acc-2f34-4b99-b103-6d68f920727c">
 
 - #### 🌱 I’m currently learning NextJS
