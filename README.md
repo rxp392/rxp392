@@ -1,9 +1,9 @@
 ## Hi! Thanks for stopping by ✨
 Learn more 👉 [My Portfolio](https://rxp392.github.io)
 
-<img width="900" alt="Screenshot 2024-08-22 at 10 48 11 PM" src="https://github.com/user-attachments/assets/e2089acc-2f34-4b99-b103-6d68f920727c">
+<img width="800" alt="Screenshot 2024-09-05 at 10 50 30 AM" src="https://github.com/user-attachments/assets/8200d941-61bc-4048-a531-d0ac781575a3">
 
-- #### 🌱 I’m currently learning NextJS
+- #### 🌱 I’m currently learning NextJS & ML/AI
 - #### 🧘‍♀️ I'm working towards running my first marathon
 - #### 💬 Ask me about all places i've visited
 - #### 😄 Pronouns: she/her/hers
