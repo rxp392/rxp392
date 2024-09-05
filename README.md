@@ -3,7 +3,7 @@ Learn more 👉 [My Portfolio](https://rxp392.github.io)
 
 <img width="800" alt="Screenshot 2024-09-05 at 10 50 30 AM" src="https://github.com/user-attachments/assets/8200d941-61bc-4048-a531-d0ac781575a3">
 
-- #### 🌱 I’m currently learning NextJS & ML/AI
+- #### 🌱 I’m currently learning NextJS, Machine Learning, NLP
 - #### 🧘‍♀️ I'm working towards running my first marathon
 - #### 💬 Ask me about all places i've visited
 - #### 😄 Pronouns: she/her/hers
