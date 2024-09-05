@@ -1,7 +1,7 @@
-## Hi! Thanks for stopping by ✨
+ ## Hi! Thanks for stopping by ✨
 Learn more 👉 [My Portfolio](https://rxp392.github.io)
 
-<img width="800" alt="Screenshot 2024-09-05 at 10 50 30 AM" src="https://github.com/user-attachments/assets/8200d941-61bc-4048-a531-d0ac781575a3">
+<img width="800" alt="Screenshot 2024-09-05 at 10 57 18 AM" src="https://github.com/user-attachments/assets/97c6215a-439c-4d11-a37d-ce955145412f">
 
 - #### 🌱 I’m currently learning NextJS, Machine Learning, NLP
 - #### 🧘‍♀️ I'm working towards running my first marathon
